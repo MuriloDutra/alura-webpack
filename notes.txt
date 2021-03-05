@@ -1,0 +1,2 @@
+Loader - age no arquivo ANTES do bundle ser feito
+Plugin - age no arquivo DEPOIS do bundle ser feito
